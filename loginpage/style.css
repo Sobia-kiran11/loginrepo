@@ -1,0 +1,33 @@
+.container-fluid {
+    padding: auto;
+    background-color: #edede9
+}
+
+
+.imgesize {
+    height: 100vh;
+}
+
+.button {
+    width: 250px;
+    border: none;
+    background-color: #588157;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.button-cancle {
+    width: 250px;
+    border: none;
+    background-color: #949794;
+    height: 35px;
+    border-radius: 5px;
+    color: black;
+}
+
+.form-check-input {
+    background-color: #edede9;
+
+}
